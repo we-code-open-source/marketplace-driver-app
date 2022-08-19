@@ -1,0 +1,68 @@
+import 'package:flutter/widgets.dart';
+
+class SabekIcons {
+  SabekIcons._();
+
+  static const _kFontFam = 'SabekIcons';
+
+  static const IconData heart = IconData(0xe801, fontFamily: _kFontFam);
+  static const IconData favourite__2_ = IconData(0xe802, fontFamily: _kFontFam);
+  static const IconData favourite__1_ = IconData(0xe803, fontFamily: _kFontFam);
+  static const IconData star__1_ = IconData(0xe804, fontFamily: _kFontFam);
+  static const IconData star2 = IconData(0xe805, fontFamily: _kFontFam);
+  static const IconData about = IconData(0xe806, fontFamily: _kFontFam);
+  static const IconData pin = IconData(0xe807, fontFamily: _kFontFam);
+  static const IconData sale = IconData(0xe808, fontFamily: _kFontFam);
+  static const IconData qr_code = IconData(0xe809, fontFamily: _kFontFam);
+  static const IconData favorite = IconData(0xe80a, fontFamily: _kFontFam);
+  static const IconData home = IconData(0xe80b, fontFamily: _kFontFam);
+  static const IconData dish = IconData(0xe80c, fontFamily: _kFontFam);
+  static const IconData fast_food = IconData(0xe80d, fontFamily: _kFontFam);
+  static const IconData food_serving = IconData(0xe80e, fontFamily: _kFontFam);
+  static const IconData compass = IconData(0xe80f, fontFamily: _kFontFam);
+  static const IconData credit_card = IconData(0xe810, fontFamily: _kFontFam);
+  static const IconData go_to_location = IconData(0xe811, fontFamily: _kFontFam);
+  static const IconData instagram = IconData(0xe812, fontFamily: _kFontFam);
+  static const IconData heart__2_ = IconData(0xe813, fontFamily: _kFontFam);
+  static const IconData verified = IconData(0xe814, fontFamily: _kFontFam);
+  static const IconData shopping_cart = IconData(0xe815, fontFamily: _kFontFam);
+  static const IconData coin = IconData(0xe816, fontFamily: _kFontFam);
+  static const IconData telephone = IconData(0xe817, fontFamily: _kFontFam);
+  static const IconData facebook = IconData(0xe818, fontFamily: _kFontFam);
+  static const IconData user1 = IconData(0xe819, fontFamily: _kFontFam);
+  static const IconData settings__1_ = IconData(0xe81a, fontFamily: _kFontFam);
+  static const IconData menu = IconData(0xe81b, fontFamily: _kFontFam);
+  static const IconData list = IconData(0xe81c, fontFamily: _kFontFam);
+  static const IconData logout = IconData(0xe81d, fontFamily: _kFontFam);
+  static const IconData night_mode = IconData(0xe81e, fontFamily: _kFontFam);
+  static const IconData translate = IconData(0xe81f, fontFamily: _kFontFam);
+  static const IconData information = IconData(0xe820, fontFamily: _kFontFam);
+  static const IconData info = IconData(0xe821, fontFamily: _kFontFam);
+  static const IconData privacy__1_ = IconData(0xe822, fontFamily: _kFontFam);
+  static const IconData privacy = IconData(0xe823, fontFamily: _kFontFam);
+  static const IconData loupe = IconData(0xe824, fontFamily: _kFontFam);
+  static const IconData search__1_ = IconData(0xe825, fontFamily: _kFontFam);
+  static const IconData delivery_man = IconData(0xe826, fontFamily: _kFontFam);
+  static const IconData filter__2_ = IconData(0xe827, fontFamily: _kFontFam);
+  static const IconData filter__1_ = IconData(0xe828, fontFamily: _kFontFam);
+  static const IconData filter = IconData(0xe829, fontFamily: _kFontFam);
+  static const IconData wallet = IconData(0xe82a, fontFamily: _kFontFam);
+  static const IconData settings = IconData(0xe82b, fontFamily: _kFontFam);
+  static const IconData bell1 = IconData(0xe82c, fontFamily: _kFontFam);
+  static const IconData location__1_ = IconData(0xe82d, fontFamily: _kFontFam);
+  static const IconData location = IconData(0xe82e, fontFamily: _kFontFam);
+  static const IconData minus = IconData(0xe82f, fontFamily: _kFontFam);
+  static const IconData minute = IconData(0xe830, fontFamily: _kFontFam);
+  static const IconData cancel = IconData(0xe831, fontFamily: _kFontFam);
+  static const IconData more = IconData(0xe832, fontFamily: _kFontFam);
+  static const IconData rest_area = IconData(0xe833, fontFamily: _kFontFam);
+  static const IconData facebook__1_ = IconData(0xe834, fontFamily: _kFontFam);
+  static const IconData messenger = IconData(0xe835, fontFamily: _kFontFam);
+  static const IconData location_pin = IconData(0xe837, fontFamily: _kFontFam);
+  static const IconData shopping_cart__1_ = IconData(0xe838, fontFamily: _kFontFam);
+  static const IconData padlock = IconData(0xe839, fontFamily: _kFontFam);
+  static const IconData like = IconData(0xe83a, fontFamily: _kFontFam);
+  static const IconData dislike = IconData(0xe83b, fontFamily: _kFontFam);
+  static const IconData half_star = IconData(0xe83c, fontFamily: _kFontFam);
+  static const IconData heart_full = IconData(0xe83d, fontFamily: _kFontFam);
+}
